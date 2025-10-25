@@ -1,0 +1,139 @@
+=========================================================================
+"USERNAME"  : "mefamex"
+"WEBSITE"   : "https://mefamex.com"
+"TITLE"     : "learning Go (golang)
+"CREATED"   : "2025-07-01"
+"UPDATEs"   : "2025-07-02"
+=========================================================================
+
+
+=======================================
+==========     ABOUT GO      ==========
+=======================================
+
+- Programming language
+- Open Source 
+- Cross-platform
+- from Google 2009 -> 2012(1.0)
+- Static
+- Compiled, Fast compilation
+- Simple and readable syntax
+- High performance
+- Built-in concurrency support (goroutines & channels)
+- Powerful standard library
+- Automatic memory management (Garbage Collection)
+- Modern development tools (go mod, go fmt, go test, etc.)
+- Interfaces
+- Type Embedding
+- First-class Functions
+- Reflection
+- Context Package
+- Error Handling
+- Generics (v1.18)
+- Fuzzing
+- Static Binary Compilation
+- Defer Keyword
+- Race Detector
+- Advanced Package Management
+
+-> https://go.dev/doc/faq  -> asked questions
+-> https://go.dev/play/    -> run online
+
+=======================================
+=======================================
+
+
+
+
+
+
+=======================================
+==========    INSTALLING     ==========
+=======================================
+
+Download go -> https://go.dev/dl/ 
+run and next next...
+
+=======================================
+=======================================
+
+
+
+
+
+
+
+
+=======================================
+==========     LEARNING      ==========
+=======================================
+
+- "Best practices" -> ashley mcnamara + brain ketelsen. Go best practices.
+
+- FreeCodeCamp
+- ProgrammingKnowledge
+- Go Programming Tutorial - Learn Go Programming by Example
+- Traversy Media
+- CS Dojo
+
+- Murat Yücedağ
+- Adem İlter
+
+- Tech With Tim - Golang Tutorials
+- The Net Ninja - Go Tutorial (Golang) for Beginners
+- Siber Kampüs - Sıfırdan İleri Seviyeye Go Programlama Dili
+- Arin Yazılım - Yeni Başlayanlar İçin GO(LANG)
+- JustForFunc: Programming in Go (Francesc Campoy)
+- Anthony GG
+
+
+
+Başlangıç: Tech With Tim veya The Net Ninja'nın başlangıç serilerinden birini baştan sona bitir. Eş zamanlı olarak Arin Yazılım'ın Türkçe serisine de göz atarak kavramları pekiştir.
+Pratik: İzlediğin her videodan sonra mutlaka kendi kodumu yaz, örnekleri değiştirir ve küçük denemeler yap.
+Derinleşme: Temelleri oturttuktan sonra, JustForFunc kanalından rastgele videolar izleyerek Go'nun inceliklerini ve "en iyi pratiklerini" (best practices) öğrenmeye başla.
+Proje Odaklı İlerleme: Bir REST API veya CLI aracı gibi küçük bir proje belirle ve bu projeyi yaparken karşılaştığın sorunları çözmek için spesifik konuları araştırarak (örneğin, "golang http router" veya "golang context") öğren.
+
+=======================================
+=======================================
+
+
+
+
+
+
+
+
+
+
+=======================================
+==========       CMD         ==========
+=======================================
+
+- go help -------------------> user guide
+- go env --------------------> ortam değişkenleri ve yapılandırma
+- go mod init [module_name] -> modül oluşturmak ve bağımlılık yönetimini başlatmak
+- go get [package_name] -----> harici paketleri eklemek
+- go fmt [file.go] ----------> kodun okunabilirliğini ve standartlara uygunluğunu sağlamak
+- go build [file.go] --------> derlenip çalıştırılabilir dosya haline getirilmesi
+- go run [file.go] ----------> Derlemeden hızlıca kodu çalıştırmak ve test etmek
+- go test -------------------> Yazılan test dosyalarını çalıştırıp, test sonuçlarını görmek
+- go install [package] ------> Paketi derleyip Go çalışma ortamına yüklemek için, genellikle projeyi sistem genelinde kullanılabilir hale getirmek
+- go clean ------------------> Derleme sonrası önbellek ve geçici dosyaları temizlemek
+- go list -------------------> Proje içindeki modül ve paket bilgilerini listelemek için.
+- go mod tidy ---------------> Bağımlılıkları düzenlemek, kullanılmayan bağımlılıkları kaldırmak ve eksik olanları eklemek
+
++ Common Go Workflow Steps
+    1. go mod init [module_name] -> Initialize a new module
+    2. go get [package_name] -----> Add external dependencies
+    3. go mod tidy ---------------> Clean up dependencies
+    4. go run main.go ------------> Run code without creating binary
+    5. go test ./... -------------> Run all tests in the project
+    6. go build ------------------> Create executable binary
+    7. go install ----------------> Build and install binary to GOPATH/bin
+
+=======================================
+=======================================
+
+
+
+

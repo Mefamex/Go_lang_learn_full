@@ -1,0 +1,89 @@
+D:\SOFTWARE\Go(Lang)\LEARN
+|      01-hello
+|      |      go.mod
+|      |      hello.go
+|      |      _Setup.txt
+|      02-Variables-And-Types
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      03-0-if-switch-Comparison
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      03-1-Loops
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      04-Functions
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      05-0-Arrays
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      05-1-Slices
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      05-2-Map
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      05-3-Structs
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      05-4-Pointers
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      05-5-Memory-Management
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      05-6-Value-vs-Reference
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      06-0-Methods
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      06-1-Pointer-vs-Value
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      06-2-Interface
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      06-3-Empty-Interface
+|      |      01-farkli-tipleri-saklama
+|      |      |      main.go
+|      |      02-type-assertion
+|      |      |      main.go
+|      |      03-type-switch
+|      |      |      main.go
+|      |      04-json-ile-calisma
+|      |      |      main.go
+|      |      05-reflection-ile-kullanim
+|      |      |      main.go
+|      |      06-generic-like-fonksiyonlar
+|      |      |      main.go
+|      |      07-performance-karsilastirmasi
+|      |      |      main.go
+|      |      08-best-practices
+|      |      |      main.go
+|      |      09-yaygin-hatalar
+|      |      |      main.go
+|      |      10-gercek-dunya-ornekleri
+|      |      |      main.go
+|      |      go.mod
+|      |      main.go
+|      |      _Setup.txt
+|      FileLister.py
+|      file_analyzer.py
+|      Nots.txt
+|      Roadmap.md
